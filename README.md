@@ -6,4 +6,4 @@ Simple program that utilizes FFMPEG to batch convert a folder of .mp3 files into
 Open source/MIT licensed... FFMPEG does all of the heavy lifting anyways!
 
 You can grab compiled binaries here!
-http://ascensiongamedev.com/index.php?action=downloads;sa=view;down=10
+[https://www.ascensiongamedev.com/files/file/26-batch-mp3-to-ogg-converter/](https://www.ascensiongamedev.com/files/file/26-batch-mp3-to-ogg-converter/)
